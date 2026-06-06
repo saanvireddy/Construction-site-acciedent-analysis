@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Data files (too large for GitHub)
+data/*.csv
+data/processed.csv
+
+# Trained models
+models/*.pkl
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Reports (generated files)
+reports/*.png
+
+# VS Code
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

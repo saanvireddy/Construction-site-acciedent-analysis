@@ -1,0 +1,25 @@
+{
+  "Logistic Regression": {
+    "cv_f1_mean": 0.9782,
+    "cv_f1_std": 0.002
+  },
+  "Random Forest": {
+    "cv_f1_mean": 0.9957,
+    "cv_f1_std": 0.0007
+  },
+  "Gradient Boosting": {
+    "cv_f1_mean": 0.9868,
+    "cv_f1_std": 0.001
+  },
+  "SVM": {
+    "cv_f1_mean": 0.9977,
+    "cv_f1_std": 0.0004
+  },
+  "best_model_metrics": {
+    "model_name": "SVM",
+    "auc_roc": 0.9867,
+    "f1": 0.9493,
+    "precision": 0.9575,
+    "recall": 0.9578
+  }
+}
