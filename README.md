@@ -57,4 +57,3 @@ This project rebuilds and significantly extends a research project originally co
 
 ---
 
-## 📁 Project Structure
